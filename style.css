@@ -9,4 +9,5 @@ h4 {
 
 body {
   background-image: url('art_berat.jpg');
+  background-repeat: no-repeat;
 }
